@@ -1,4 +1,4 @@
-#header, h2{
+#header, {
     color: rgb(57, 4, 92);
     font-weight: bold;
     font-size: 100px;
@@ -18,4 +18,10 @@
     font-weight: bold;
     text-align: center;
     color: rgb(57, 4, 92);
+}
+h2{
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+    color: black;
 }
