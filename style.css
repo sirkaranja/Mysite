@@ -1,10 +1,10 @@
-#header, {
-    color: rgb(57, 4, 92);
+#header{color: rgb(57, 4, 92);
     font-weight: bold;
     font-size: 100px;
     font-style: italic;
-    text-align: center;
-}
+    text-align: center;}
+    
+
 #about{
     font-size: 80px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
